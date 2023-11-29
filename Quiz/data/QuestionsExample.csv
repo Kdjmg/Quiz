@@ -1,4 +1,25 @@
-Qui est Margaret Hamilton ?; 1: une championne de ping pong 2: une pilote de F1 3: une informaticienne de légende;3
-Qui peut accéder à un attribut protected d'une classe en C# ?;1: ses classes dérivées 2: sa mère 3: son père 4: toutes les classes du même domaine;1
-Que permet le raccourci F9 sous Visual Studio Code ?; 1: Mettre un signet 2: Mettre un point d'arrêt 3: Naviguer vers la définition;2
-Quelle commande permet de vérifier la version installée du sdk de .net ?; 1: dotnet -v 2: dotnet --list-sdks 3: dotnet version;2
+Qui est Margaret Hamilton ?; 1: une championne de ping pong 2: une pilote de F1 3: une informaticienne de légende;3;Informatique
+Qui peut accéder à un attribut protected d'une classe en C# ?;1: ses classes dérivées 2: sa mère 3: son père 4: toutes les classes du même domaine;1;Informatique
+Que permet le raccourci F9 sous Visual Studio Code ?; 1: Mettre un signet 2: Mettre un point d'arrêt 3: Naviguer vers la définition;2;Informatique
+Quelle commande permet de vérifier la version installée du sdk de .net ?; 1: dotnet -v 2: dotnet --list-sdks 3: dotnet version;2;Informatique
+Quel flim n'est pas un flim sur le cyclimse ?; 1: Le tour de France 2: Breaking Away 3:La classe américaine;3;Musique et cinema
+Qui est l'homme le plus classe du monde ?; 1: Dave Callaghan 2: Georges 3: Abitbol 4: Peter;2;Musique et cinema
+Laquelle de ces chansons n'est pas une chanson de Johnny ?; 1: Gabrielle 2: Je te donne 3: Requiem pour un fou;2;Musique et cinema
+Quelle est la couleur du cheval blanc d'Henri IV; 1: Blanc 2: Marron 3: La réponse D;1;Culture Generale
+Quelle est la capitale du Japon ?; 1: Tokyo 2: Pékin 3: Séoul 4: Bangkok;1;Géographie
+Quel est le plus haut sommet du monde ?; 1: Mount Everest 2: Mont Kilimandjaro 3: Mont McKinley 4: Mont Fuji;1;Géographie
+Quel est le plus long fleuve du monde ?;1: Le Nil 2: L'Amazone 3: Le Yangzi Jiang 4: Le Mississippi;2;Géographie
+Quelle est la monnaie utilisée au Brésil ?; 1: Le Réal 2: Le Peso 3: Le Baht 4: Le Yuan;1;Géographie
+Quel est l'os situé dans le bras entre l'épaule et le coude ?;1: L'humérus 2: Le radius 3: Le cubitus,4: Le fémur;1;Sciences
+Quelle est la plus grande cellule du corps humain ?;1: Neurone 2: Œuf 3: Adipocyte 4: Cellule musculaire;2;Sciences
+Quel est le principal rôle des globules rouges dans le corps humain ?;1: Transport de l'oxygène 2: Coagulation sanguine 3: Digestion 4: Production d'anticorps;1;Sciences
+Quel est le principal gaz constituant de l'atmosphère terrestre ?;1: Azote 2: Oxygène 3:Argon 4: CO2;1;Sciences
+Qui a peint "La Nuit étoilée" ?;1: Vincent Van Gogh 2: Claude Monet 3: Édouard Manet 4: Gustav Klimt;1;Art
+Quel mouvement artistique est associé à Salvador Dalí ?; 1: Surréalisme 2: Cubisme 3: Impressionnisme 4: Baroque;1;Art
+Quel est le nom de l'étoile la plus proche de la Terre ?; 1: Proxima 2: Centauri 3: Sirius 4: Bételgeuse 5: Alpha Centauri;1;Astronomie
+Quel élément chimique constitue la majeure partie de l'atmosphère du Soleil ?;1: L'hélium 2: L'hydrogène 3: Le carbone 4: Le fer;2;Sciences
+Quel est l'océan le plus profond du monde ?; 1: Océan Pacifique 2: Océan Atlantique 3: Océan Indien 4: Océan Arctique;1;Géographie
+Quel est l'océan le plus chaud du monde ?;1: Océan Indien 2: Océan Pacifique 3: Océan Atlantique 4: Océan Arctique;1;Géographie
+Quel est l'océan le plus petit du monde ?; 1: Océan Arctique 2: Océan Atlantique 3: Océan Indien 4: Océan Pacifique;1;Géographie
+Quel est l'océan le plus salé du monde ?;1 Mer Morte 2: Océan Pacifique 3: Océan Atlantique 4: Océan Arctique;1;Géographie
+

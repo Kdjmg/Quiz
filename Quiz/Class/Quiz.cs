@@ -20,7 +20,8 @@ class Quiz
             {
                     Intitule= parts[0],
                     Reponses= parts[1],
-                    CorrectAnswer= parts[2]
+                    CorrectAnswer= parts[2],
+                    Categories =parts[3],
             }).ToList();
     }
 
@@ -48,6 +49,7 @@ class Quiz
         Console.WriteLine("|  |  |  |    |  |  |  | |  |    /  /    |  | |_ |   /  /_\\  \\   |  |\\/|  | |   __|  ");
         Console.WriteLine("|  `--'  '--. |  `--'  | |  |   /  /----.|  |__| |  /  _____  \\  |  |  |  | |  |____ ");
         Console.WriteLine(" \\_____/\\_____\\ \\______/  |__|  /________| \\______| /__/     \\__\\ |__|  |__| |_______|");
+
 
         Console.WriteLine("Choisissez votre catégorie :");
         Console.WriteLine("1. Une catégorie");
