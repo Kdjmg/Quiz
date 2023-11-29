@@ -1,4 +1,5 @@
 
+using System;
 class Qcm{
     
     public static void Game(){

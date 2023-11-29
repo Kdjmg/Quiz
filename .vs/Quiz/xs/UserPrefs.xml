@@ -1,30 +1,32 @@
 ﻿<Properties StartupConfiguration="{DBBACF20-52AA-46D4-A728-A3618E5289B6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Quiz/Class/qcm.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Quiz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Quiz/Class/Quiz.cs">
     <Files>
-      <File FileName="Quiz/Program.cs" Line="23" Column="12" />
-      <File FileName="Quiz/Class/qcm.cs" Line="6" Column="1" />
-      <File FileName="Quiz/Class/Menu.cs" Line="1" Column="1" />
+      <File FileName="Quiz/Program.cs" Line="12" Column="9" />
+      <File FileName="Quiz/Class/qcm.cs" />
+      <File FileName="Quiz/data/QuestionsExample.csv" />
+      <File FileName="Quiz/Class/Quiz.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Quiz" expanded="True">
-            <Node name="Quiz" expanded="True">
+          <Node name="Quiz">
+            <Node name="Quiz">
               <Node name="Class" expanded="True">
-                <Node name="qcm.cs" selected="True" />
+                <Node name="Quiz.cs" selected="True" />
               </Node>
-              <Node name="data" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Quiz PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/mehdi/Desktop/WorksPlace/Quiz/Quiz/Program.cs" relfile="Quiz/Program.cs" line="7" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

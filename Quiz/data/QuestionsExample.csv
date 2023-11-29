@@ -1,4 +1,4 @@
-Qui est Margaret Hamilton ?;une championne de ping pong/une pilote de F1/une informaticienne de légende;3
-Qui peut accéder à un attribut protected d'une classe en C# ?;ses classes dérivées/sa mère/son père/toutes les classes du même domaine;1
-Que permet le raccourci F9 sous Visual Studio Code ?;Mettre un signet/Mettre un point d'arrêt/Naviguer vers la définition;2
-Quelle commande permet de vérifier la version installée du sdk de .net ?;dotnet -v/dotnet --list-sdks/dotnet version;2
+Qui est Margaret Hamilton ?; 1: une championne de ping pong 2: une pilote de F1 3: une informaticienne de légende;3
+Qui peut accéder à un attribut protected d'une classe en C# ?;1: ses classes dérivées 2: sa mère 3: son père 4: toutes les classes du même domaine;1
+Que permet le raccourci F9 sous Visual Studio Code ?; 1: Mettre un signet 2: Mettre un point d'arrêt 3: Naviguer vers la définition;2
+Quelle commande permet de vérifier la version installée du sdk de .net ?; 1: dotnet -v 2: dotnet --list-sdks 3: dotnet version;2
